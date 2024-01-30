@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 <br/>
 
+<img src="Animation - 1706600533576.gif" width="200px" height="200px" />
+
 <h3>My stats</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alazar-da&show_icons=true&theme=radical)
