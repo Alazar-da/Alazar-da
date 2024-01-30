@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-<img src="Animation - 1706600533576.gif" width="200px" height="200px" />
+ <img width="500" height="300" src="Animation - 1706600533576.gif" />
 
 <h3>My stats</h3>
 
