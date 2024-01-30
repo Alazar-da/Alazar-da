@@ -14,11 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://komarev.com/ghpvc/?Alazar-da=your-github-username)
+![](https://komarev.com/ghpvc/?username=Alazar-da)
 
-<h3>Hi there, My name is ALAZAR DAMENA GIRMA 👋</h3>
+<h2>Hi there, My name is ALAZAR DAMENA GIRMA 👋</h2>
 
 <br/>
 
-<h4>My stats</h4>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+<h3>My stats</h3>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alazar-da&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alazar-da)
